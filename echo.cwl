@@ -1,6 +1,6 @@
 cwlVersion: v1.0
 class: CommandLineTool
-baseCommand: [cat]
+baseCommand: [touch]
 inputs:
   classfile:
     type: File
